@@ -26,6 +26,7 @@ def plaintext(s):
     for i in range (len(mylist)):
         if i==0:
             pt1 = AES_decrypt(s[0], key)
+	#code incomplete
             
             
             
